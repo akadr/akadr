@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akadr
-- 👀 I’m interested in software
+- 👀 I’m interested in mobile software
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me abdulkadirkoc61@hotmail.com
 
